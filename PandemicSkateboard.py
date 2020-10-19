@@ -143,16 +143,12 @@ while True:
     drawPCards()
     ongoingInfection()
 
-
-
-
 RoleCards = ["Researcher","Medic","Dispatcher","Quarantine Specialist","Contingency Planner","Operations Expert","Scientist"]
 #Implement Way to Draw Cards from the PC and IC lists and add to "Discarded Pile" list for the two piles
 #Implement the Players "Hand" and a command to check your hand
 #Implement Way to Draw from Role Cards and a way to check your role and your special abilities
 #Implement Function To check Actions available according to the cards your on.
 #---------------------------------
-
 #Implement Outbreak Counter
 #Implement Infection Rate Counter
 #Implement Cure/Eradication Status Check
