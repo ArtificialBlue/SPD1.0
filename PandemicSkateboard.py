@@ -153,9 +153,6 @@ RoleCards = ["Researcher","Medic","Dispatcher","Quarantine Specialist","Continge
 #Implement Function To check Actions available according to the cards your on.
 #---------------------------------
 
-
-
-
 #Implement Outbreak Counter
 #Implement Infection Rate Counter
 #Implement Cure/Eradication Status Check
