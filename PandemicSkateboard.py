@@ -2,16 +2,13 @@
 #First Board Game: "Pandemic" by Z-Man games
 import random
 #import pygame
-
 redCounter = 24
 yellowCounter = 24
 blueCounter = 24
 blackCounter = 24
-
 #Implement Graph System 
 currentCity = "Atlanta"
 #Properties of Each City: Connecting Cities, Infection Level, Virus Color, and Research Station Established
-
 graph = { "Atlanta" :      [["Miami","Washington","Chicago"],0,"Blue",True],
           "Chicago" :      [["San Francisco", "Montreal","Atlanta"],0,"Blue",False],
           "Washington" :   [["Atlanta", "New York", "Montreal", "Miami"],0,"Blue",False],
