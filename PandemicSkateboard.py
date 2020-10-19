@@ -71,7 +71,6 @@ PlayerCards = ["Lagos","Los Angeles","Lima","Miami","Sao Paulo","Johannesburg","
 
 PlayerCardsDiscarded = []
 
-
 player1Hand = []
 player2Hand = []
 player3Hand = []
@@ -84,7 +83,6 @@ def drawPCards():
         print(cardDrawn + " has been added to your hand")
         PlayerCards.remove(cardDrawn)
     print(player1Hand)
-
 
 InfectionCards = ["Lagos","Los Angeles","Lima","Miami","Sao Paulo","Johannesburg","Santiago","Buenos Aires","Mexico City","Bogota","Khartoum","Kinshasa",
 "Milan","Atlanta","Washington","San Francisco","Madrid","St.Petersburg","Paris","Essen","Montreal","London","Chicago","New York",
@@ -154,8 +152,6 @@ RoleCards = ["Researcher","Medic","Dispatcher","Quarantine Specialist","Continge
 #Implement Way to Draw from Role Cards and a way to check your role and your special abilities
 #Implement Function To check Actions available according to the cards your on.
 #---------------------------------
-
-
 
 
 
